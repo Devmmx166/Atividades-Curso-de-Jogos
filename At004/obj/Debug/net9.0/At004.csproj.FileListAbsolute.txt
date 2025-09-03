@@ -1,0 +1,14 @@
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\bin\Debug\net9.0\At004.exe
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\bin\Debug\net9.0\At004.deps.json
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\bin\Debug\net9.0\At004.runtimeconfig.json
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\bin\Debug\net9.0\At004.dll
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\bin\Debug\net9.0\At004.pdb
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\At004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\At004.AssemblyInfoInputs.cache
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\At004.AssemblyInfo.cs
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\At004.csproj.CoreCompileInputs.cache
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\At004.dll
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\refint\At004.dll
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\At004.pdb
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\At004.genruntimeconfig.cache
+C:\Users\Hilton\Desktop\CursoC#\Atividades\At004\obj\Debug\net9.0\ref\At004.dll
