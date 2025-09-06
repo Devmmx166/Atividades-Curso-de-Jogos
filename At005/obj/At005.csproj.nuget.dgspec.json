@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At004\\At005\\At005.csproj": {}
+    "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At005\\At005.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At004\\At005\\At005.csproj": {
+    "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At005\\At005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At004\\At005\\At005.csproj",
+        "projectUniqueName": "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At005\\At005.csproj",
         "projectName": "At005",
-        "projectPath": "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At004\\At005\\At005.csproj",
+        "projectPath": "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At005\\At005.csproj",
         "packagesPath": "C:\\Users\\Hilton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At004\\At005\\obj\\",
+        "outputPath": "C:\\Users\\Hilton\\Desktop\\CursoC#\\Atividades\\At005\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
