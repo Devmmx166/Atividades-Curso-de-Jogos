@@ -1,0 +1,15 @@
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\bin\Debug\net10.0\Teste01(Random).exe
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\bin\Debug\net10.0\Teste01(Random).deps.json
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\bin\Debug\net10.0\Teste01(Random).runtimeconfig.json
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\bin\Debug\net10.0\Teste01(Random).dll
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\bin\Debug\net10.0\Teste01(Random).pdb
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).GeneratedMSBuildEditorConfig.editorconfig
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).AssemblyInfoInputs.cache
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).AssemblyInfo.cs
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).csproj.CoreCompileInputs.cache
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).sourcelink.json
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).dll
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\refint\Teste01(Random).dll
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).pdb
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\Teste01(Random).genruntimeconfig.cache
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\Teste01(Random)\obj\Debug\net10.0\ref\Teste01(Random).dll

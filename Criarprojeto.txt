@@ -1,0 +1,8 @@
+criar projeto no VScode
+
+dotnet new console --use-program-main
+
+
+AULAS
+
+

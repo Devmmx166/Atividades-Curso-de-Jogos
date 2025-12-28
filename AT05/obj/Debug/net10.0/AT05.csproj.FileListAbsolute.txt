@@ -1,0 +1,15 @@
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\bin\Debug\net10.0\AT05.exe
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\bin\Debug\net10.0\AT05.deps.json
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\bin\Debug\net10.0\AT05.runtimeconfig.json
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\bin\Debug\net10.0\AT05.dll
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\bin\Debug\net10.0\AT05.pdb
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.GeneratedMSBuildEditorConfig.editorconfig
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.AssemblyInfoInputs.cache
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.AssemblyInfo.cs
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.csproj.CoreCompileInputs.cache
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.sourcelink.json
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.dll
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\refint\AT05.dll
+c:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.pdb
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\AT05.genruntimeconfig.cache
+C:\WorkSpace\CursoDeJogos\Atividades-Curso-de-Jogos\AT05\obj\Debug\net10.0\ref\AT05.dll
